@@ -1,5 +1,5 @@
 
-#Fibnocci series of numbers
+#Fibonacci series of numbers
 a=0
 b=1
 n=int(input('number of fibnocci series required: '))# gives us the required number of fibnocci numbers
