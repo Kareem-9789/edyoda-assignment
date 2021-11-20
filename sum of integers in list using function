@@ -1,0 +1,9 @@
+# Write a Python function to sum all the numbers in a list.
+
+def sum_list(*n):
+    sum=0
+    for i in n:
+        sum=sum+i
+    print(sum)
+
+sum_list() # provide the items of list in the brackets of called function
