@@ -1,0 +1,8 @@
+#Write a Python program to reverse a string.
+
+n=input('enter a string: ')
+def reverse_string(n):
+    y=n[::-1]
+    return y
+result=(reverse_string(n))
+print(result)
