@@ -1,7 +1,7 @@
 print("*************************************welcome to the quiz*****************************************")
 print("^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^Lets check your skill in python^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^")
 
-from Quiz_Question import quiz  # questions file
+from Quiz_Questions import quiz  # questions file
 
 print('lets start:  *******')
 score=0
